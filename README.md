@@ -3,6 +3,18 @@
 Kebabs Place is a simple metal structure protecting the kebabs from environmental factors during the cooking.
 
 ![](https://github.com/zingerzinger/KebabsPlace/blob/master/DSC_0242.JPG)
+
+
+# THE FRAME
+
+![](https://github.com/zingerzinger/KebabsPlace/blob/master/20170830_135444.jpg)
+![](https://github.com/zingerzinger/KebabsPlace/blob/master/20170830_135502.jpg)
+![](https://github.com/zingerzinger/KebabsPlace/blob/master/20170831_141844.jpg)
+![](https://github.com/zingerzinger/KebabsPlace/blob/master/20170831_141858.jpg)
+![](https://github.com/zingerzinger/KebabsPlace/blob/master/20170831_141910.jpg)
+
+# THE PROCESS
+
 ![](https://github.com/zingerzinger/KebabsPlace/blob/master/0.jpg)
 ![](https://github.com/zingerzinger/KebabsPlace/blob/master/1.jpg)
 ![](https://github.com/zingerzinger/KebabsPlace/blob/master/2.jpg)
