@@ -4,6 +4,7 @@ Kebabs Place is a simple metal structure protecting the kebabs from environmenta
 
 ![](https://github.com/zingerzinger/KebabsPlace/blob/master/DSC_0242.JPG)
 
+Feel free to buy the materials, tools and make something.
 
 # THE FRAME
 
